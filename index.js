@@ -39,7 +39,7 @@ module.exports = {
     "import/no-unresolved": [
       "error",
       {
-        ignore: ["^@monkeytype/"],
+        ignore: ["^@andika/"],
       },
     ],
     "no-mixed-operators": [
