@@ -1,5 +1,5 @@
 {
-  "name": "@andika/eslint-config",
+  "name": "@andikaorg/eslint-config",
   "version": "1.0.0",
   "description": "ESLint config for Andika",
   "devDependencies": {
